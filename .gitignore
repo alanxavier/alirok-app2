@@ -1,0 +1,25 @@
+
+# OS Files
+.DS_Store
+
+# Package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Build directories
+dist
+.webpack
+
+# Test & Coverage directories
+coverage
+temp
+tmp
+
+# Editors config directories
+.vscode
+
+# Enviroment files
+.env
